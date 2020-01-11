@@ -28,7 +28,7 @@ class Song
 
 def self.genre_count
   
- [genre].uniq { |genre| [genre.name, genre_count] }
+ 
    
 end
 
